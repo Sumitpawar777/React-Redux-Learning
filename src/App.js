@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import CakeContainer from './components/CakeContainer';
 import { Provider } from 'react-redux';
